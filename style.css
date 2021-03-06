@@ -24,11 +24,19 @@ tr {
   border-spacing: 0.5rem;
 }
 
-#casella1, #casella2, #casella3, #casella4, #casella5, #casella6, #casella7, #casella8, #casella9 {
+#casella1,
+#casella2,
+#casella3,
+#casella4,
+#casella5,
+#casella6,
+#casella7,
+#casella8,
+#casella9 {
   opacity: 0.5;
 }
 
-h2{
+h2 {
   vertical-align: middle;
   top: 50vh;
 }

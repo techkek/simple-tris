@@ -52,7 +52,7 @@ let o9 = false;
 
 //quando vengono premute le caselle
 function click1() {
-    if (x1==false && o1==false) {
+    if (x1 == false && o1 == false) {
         if (player == 'o') {
             o1 = true;
             document.getElementById("casella1").innerHTML = "o";
@@ -71,7 +71,7 @@ function click1() {
 }
 
 function click2() {
-    if (x2==false && o2==false) {
+    if (x2 == false && o2 == false) {
         if (player == 'o') {
             o2 = true;
             document.getElementById("casella2").innerHTML = "o";
@@ -90,7 +90,7 @@ function click2() {
 }
 
 function click3() {
-    if (x3==false && o3==false) {
+    if (x3 == false && o3 == false) {
         if (player == 'o') {
             o3 = true;
             document.getElementById("casella3").innerHTML = "o";
@@ -109,7 +109,7 @@ function click3() {
 }
 
 function click4() {
-    if (x4==false && o4==false) {
+    if (x4 == false && o4 == false) {
         if (player == 'o') {
             o4 = true;
             document.getElementById("casella4").style.opacity = "1";
@@ -128,7 +128,7 @@ function click4() {
 }
 
 function click5() {
-    if (x5==false && o5==false) {
+    if (x5 == false && o5 == false) {
         if (player == 'o') {
             o5 = true;
             document.getElementById("casella5").innerHTML = "o";
@@ -149,7 +149,7 @@ function click5() {
 
 
 function click6() {
-    if (x6==false && o6==false) {
+    if (x6 == false && o6 == false) {
         if (player == 'o') {
             o6 = true;
             document.getElementById("casella6").innerHTML = "o";
@@ -168,7 +168,7 @@ function click6() {
 }
 
 function click7() {
-    if (x7==false && o7==false) {
+    if (x7 == false && o7 == false) {
         if (player == 'o') {
             o7 = true;
             document.getElementById("casella7").innerHTML = "o";
@@ -187,7 +187,7 @@ function click7() {
 }
 
 function click8() {
-    if (x8==false && o8==false) {
+    if (x8 == false && o8 == false) {
         if (player == 'o') {
             o8 = true;
             document.getElementById("casella8").innerHTML = "o";
@@ -206,7 +206,7 @@ function click8() {
 }
 
 function click9() {
-    if (x9==false && o9==false) {
+    if (x9 == false && o9 == false) {
         if (player == 'o') {
             o9 = true;
             document.getElementById("casella9").innerHTML = "o";
