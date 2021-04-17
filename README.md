@@ -1,1 +1,1 @@
-# Simple Tic-tac-toe(in italian) in pure JavaScript
+# Simple Tic-tac-toe (in italian) in pure JavaScript
